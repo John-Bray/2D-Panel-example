@@ -104,7 +104,7 @@ override those by providing <w>..</w> and <h>..</h> properties with the
 
 <!-- sacred six -->
 
-  <instrument include="Aircraft/Instruments/asi-c310.xml">
+  <instrument include="Aircraft/Instruments/asi-c172s.xml">
    <name>Airspeed Indicator</name>
    <x>65</x>
    <y>65</y>
